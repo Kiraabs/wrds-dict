@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kira\\Desktop\\words-sorter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6B074BE-61DD-46E1-AE50-A973284B4D1B}|words-sorter.vcxproj|C:\\Users\\kira\\Desktop\\words-sorter\\WDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6B074BE-61DD-46E1-AE50-A973284B4D1B}|words-sorter.vcxproj|solutionrelative:WDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6B074BE-61DD-46E1-AE50-A973284B4D1B}|words-sorter.vcxproj|C:\\Users\\kira\\Desktop\\words-sorter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6B074BE-61DD-46E1-AE50-A973284B4D1B}|words-sorter.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B074BE-61DD-46E1-AE50-A973284B4D1B}|words-sorter.vcxproj|C:\\Users\\kira\\Desktop\\words-sorter\\WDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B074BE-61DD-46E1-AE50-A973284B4D1B}|words-sorter.vcxproj|solutionrelative:WDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WDictionary.cpp",
               "DocumentMoniker": "C:\\Users\\kira\\Desktop\\words-sorter\\WDictionary.cpp",
               "RelativeDocumentMoniker": "WDictionary.cpp",
               "ToolTip": "C:\\Users\\kira\\Desktop\\words-sorter\\WDictionary.cpp",
               "RelativeToolTip": "WDictionary.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-02T21:08:59.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\kira\\Desktop\\words-sorter\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\kira\\Desktop\\words-sorter\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-02T21:02:35.985Z",
               "EditorCaption": ""
