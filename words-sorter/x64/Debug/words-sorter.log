@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\WDictionary.h(32,28): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\WDictionary.h(38,23): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\WDictionary.h(39,26): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\WDictionary.h(60,30): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\WDictionary.h(61,31): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\WDictionary.h(61,50): warning C4114: Множественное использование одного и того же квалификатора типа.
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\WDictionary.h(61,67): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(4,28): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(6,36): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(7,36): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(8,37): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(9,41): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(10,33): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(20,28): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(65,36): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(80,37): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(105,36): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(134,33): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\main.cpp(144,41): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  words-sorter.vcxproj -> D:\Kira\Programming\Apps\C C++\cpp-console\words-sorter\x64\Debug\words-sorter.exe
